@@ -1,0 +1,4 @@
+bluetoth model hc 05 or 06
+
+05 = can boot , setup, password change
+06 = no reset connected. have to soldier.
